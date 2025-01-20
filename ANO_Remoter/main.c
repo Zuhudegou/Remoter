@@ -3,6 +3,7 @@
 #include "sysconfig.h"
 #include "ANO_Param.h"
 #include "ANO_Drv_Flash.h"
+#include "astra_rocket.h"
 uint8_t 	NRF_ENABLE = 0;
 
 
